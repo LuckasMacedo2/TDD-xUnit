@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "CursoOnline.Dominio.Test/1.0.0": {
         "dependencies": {
+          "Bogus": "34.0.2",
+          "CursoOnline.Dominio": "1.0.0",
           "ExpectedObjects": "3.5.4",
           "Microsoft.NET.Test.Sdk": "17.1.0",
           "coverlet.collector": "3.1.2",
@@ -16,6 +18,14 @@
         },
         "runtime": {
           "CursoOnline.Dominio.Test.dll": {}
+        }
+      },
+      "Bogus/34.0.2": {
+        "runtime": {
+          "lib/net6.0/Bogus.dll": {
+            "assemblyVersion": "34.0.2.0",
+            "fileVersion": "34.0.2.0"
+          }
         }
       },
       "coverlet.collector/3.1.2": {},
@@ -1101,7 +1111,12 @@
           }
         }
       },
-      "xunit.runner.visualstudio/2.4.3": {}
+      "xunit.runner.visualstudio/2.4.3": {},
+      "CursoOnline.Dominio/1.0.0": {
+        "runtime": {
+          "CursoOnline.Dominio.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -1109,6 +1124,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Bogus/34.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2KQAuMn3fLAQ2r6jeiffZnpv0bi3GCW3iRB2v1KeHIEBu8MNTh9dBlLTZwGvM0pr+9doKkU8L5JgCURmTmT88A==",
+      "path": "bogus/34.0.2",
+      "hashPath": "bogus.34.0.2.nupkg.sha512"
     },
     "coverlet.collector/3.1.2": {
       "type": "package",
@@ -1760,6 +1782,11 @@
       "sha512": "sha512-kZZSmOmKA8OBlAJaquPXnJJLM9RwQ27H7BMVqfMLUcTi9xHinWGJiWksa3D4NEtz0wZ/nxd2mogObvBgJKCRhQ==",
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    },
+    "CursoOnline.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

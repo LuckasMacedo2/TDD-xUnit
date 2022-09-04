@@ -98,3 +98,7 @@ F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dominio.Test\obj
 F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dominio.Test\obj\Debug\net6.0\CursoOnline.Dominio.Test.genruntimeconfig.cache
 F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dominio.Test\obj\Debug\net6.0\ref\CursoOnline.Dominio.Test.dll
 F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dominio.Test\bin\Debug\net6.0\ExpectedObjects.dll
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dominio.Test\bin\Debug\net6.0\Bogus.dll
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dominio.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dominio.Test\bin\Debug\net6.0\CursoOnline.Dominio.dll
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dominio.Test\bin\Debug\net6.0\CursoOnline.Dominio.pdb
