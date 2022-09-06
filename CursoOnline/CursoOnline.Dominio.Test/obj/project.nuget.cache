@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "9gGHFL2Y1NqZ0UJ/s4PKSYqJEwZAkdQtG4WVaCHQCQj7n0TTdDWs9+qy2ZfpJACBB4rQ8AoVmRM5iAPJdY5ZAQ==",
+  "dgSpecHash": "h3YBrWnXJy+Wc9nmgFdE7a13SKcB7kP4JVFdQBJRGtKJhrZTgxaBCLw26jxNP6sYBBi6jZPmA/UBnBqE+sAjqw==",
   "success": true,
   "projectFilePath": "F:\\Projects\\Projetos - Estudo\\TDD-xUnit\\CursoOnline\\CursoOnline.Dominio.Test\\CursoOnline.Dominio.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucka\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\lucka\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\expectedobjects\\3.5.4\\expectedobjects.3.5.4.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
@@ -15,6 +16,7 @@
     "C:\\Users\\lucka\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\lucka\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
@@ -41,6 +43,7 @@
     "C:\\Users\\lucka\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "C:\\Users\\lucka\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\lucka\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
