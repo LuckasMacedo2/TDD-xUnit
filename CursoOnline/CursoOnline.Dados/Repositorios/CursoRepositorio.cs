@@ -18,6 +18,5 @@ namespace CursoOnline.Dados.Repositorios
                 return entidade.First();
             return null;
         }
-
     }
 }
