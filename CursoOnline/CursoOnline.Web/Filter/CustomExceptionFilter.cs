@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc;
 using CursoOnline.Dominio._Base;
+using static CursoOnline.Dominio._Base.ValidadorDeRegra;
 
 namespace CursoOnline.Web.Filter
 {

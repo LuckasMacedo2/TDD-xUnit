@@ -1,5 +1,6 @@
 ﻿using CursoOnline.Dominio._Base;
 using Xunit;
+using static CursoOnline.Dominio._Base.ValidadorDeRegra;
 
 namespace CursoOnline.Dominio.Test._Util
 {

@@ -6,6 +6,7 @@ using CursoOnline.Dominio.Test._Util;
 using ExpectedObjects;
 using Xunit;
 using Xunit.Abstractions;
+using static CursoOnline.Dominio._Base.ValidadorDeRegra;
 
 namespace CursoOnline.Dominio.Test.Cursos
 {
