@@ -8,5 +8,10 @@
         
         public static string NomeDoCursoJaExiste = "Nome do curso já consta no banco de dados";
         public static string PublicoAlvoInvalido = "Público alvo inválido";
+
+        public static string CpfInvalido = "CPF inválido";
+        public static string EmailInvalido = "Email inválido";
+
+        public static string CpfJaCadastrado = "CPF já cadastrado";
     }
 }

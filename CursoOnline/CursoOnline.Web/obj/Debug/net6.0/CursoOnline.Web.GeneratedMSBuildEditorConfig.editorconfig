@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/Projects/Projetos - Estudo/TDD-xUnit/CursoOnline/CursoOnline.Web/Views/Aluno/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/Projetos - Estudo/TDD-xUnit/CursoOnline/CursoOnline.Web/Views/Aluno/NovoOuEditar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cTm92b091RWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Projects/Projetos - Estudo/TDD-xUnit/CursoOnline/CursoOnline.Web/Views/Curso/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,4 +1,5 @@
-﻿using CursoOnline.Dominio.Cursos;
+﻿using CursoOnline.Dominio.Alunos;
+using CursoOnline.Dominio.Cursos;
 using Microsoft.EntityFrameworkCore;
 
 namespace CursoOnline.Dados.Contextos
@@ -11,6 +12,7 @@ namespace CursoOnline.Dados.Contextos
         }
 
         public DbSet<Curso> Cursos { get; set; }
+        public DbSet<Aluno> Alunos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

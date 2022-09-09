@@ -1,4 +1,5 @@
 ﻿using CursoOnline.Dominio.Cursos;
+using CursoOnline.Dominio.PublicosAlvo;
 using System.Reflection;
 using static CursoOnline.Dominio.Test.Cursos.CursoTest;
 

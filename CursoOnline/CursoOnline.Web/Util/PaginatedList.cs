@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Microsoft.AspNetCore.Http;
-
-namespace CursoOnline.Web.Util
+﻿namespace CursoOnline.Web.Util
 {
     public class PaginatedList<T> : List<T>
     {
