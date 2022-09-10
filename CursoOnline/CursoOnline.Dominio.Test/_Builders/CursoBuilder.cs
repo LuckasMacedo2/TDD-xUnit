@@ -18,7 +18,7 @@ namespace CursoOnline.Dominio.Test._Builders
     {
         private string _nome = "Informártica básica";
         private double _cargaHoraria = 80.00;
-        private PublicoAlvo _publicoAlvo = PublicoAlvo.Estudante;
+        private PublicoAlvo _publicoAlvo = PublicoAlvo.Empregado;
         private double _valor = 950.00;
         private string _descricao = "Curso legal";
         private int _id;
