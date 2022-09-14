@@ -1,0 +1,17 @@
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\CursoOnline.Dados.csproj.AssemblyReference.cache
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\CursoOnline.Dados.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\CursoOnline.Dados.AssemblyInfoInputs.cache
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\CursoOnline.Dados.AssemblyInfo.cs
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\CursoOnline.Dados.csproj.CoreCompileInputs.cache
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\bin\Debug\net6.0\CursoOnline.Dados.deps.json
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\bin\Debug\net6.0\CursoOnline.Dados.runtimeconfig.json
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\bin\Debug\net6.0\CursoOnline.Dados.dll
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\bin\Debug\net6.0\CursoOnline.Dados.pdb
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\bin\Debug\net6.0\CursoOnline.Dominio.dll
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\bin\Debug\net6.0\CursoOnline.Dominio.pdb
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\CursoOnline.Dados.csproj.CopyComplete
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\CursoOnline.Dados.dll
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\refint\CursoOnline.Dados.dll
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\CursoOnline.Dados.pdb
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\CursoOnline.Dados.genruntimeconfig.cache
+F:\Projects\Projetos - Estudo\TDD-xUnit\CursoOnline\CursoOnline.Dados\obj\Debug\net6.0\ref\CursoOnline.Dados.dll
