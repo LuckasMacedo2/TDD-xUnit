@@ -1,0 +1,31 @@
+{
+  "name": "cursoonline",
+  "version": "1.0.0",
+  "description": "Projeto destinado a ser base de estudo para pessoas que querem aprender testes de unidade e TDD",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "dotnet run -p ./CursoOnline.Web/CursoOnline.Web.csproj",
+    "migration": "cd ./CursoOnline.Dados/ && dotnet ef --startup-project ../CursoOnline.Web/CursoOnline.Web.csproj migrations add",
+    "migration-script": "cd ./CursoOnline.Dados/ && dotnet ef --startup-project ../CursoOnline.Web/CursoOnline.Web.csproj migrations script",
+    "remove-migration": "cd ./CursoOnline.Dados/ && dotnet ef --startup-project ../CursoOnline.Web/CursoOnline.Web.csproj migrations remove",
+    "update-database": "cd ./CursoOnline.Dados/ && dotnet ef --startup-project ../CursoOnline.Web/CursoOnline.Web.csproj database update",
+    "testCafe": "./node_modules/.bin/testcafe chrome e2e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephanyBatista/CursoOnline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephanyBatista/CursoOnline/issues"
+  },
+  "homepage": "https://github.com/StephanyBatista/CursoOnline#readme",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "testcafe": "^0.20.5"
+  }
+}
